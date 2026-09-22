@@ -120,3 +120,13 @@ https://www.ncbi.nlm.nih.gov/clinvar/
 
 **Selected ClinVar Record:**  
 https://www.ncbi.nlm.nih.gov/clinvar/variation/3045221/
+
+## Submission Information
+
+**Assigned gene:**  
+TP53
+
+**Selected ClinVar variant:**  
+NC_000017.11:g.7668194C>T
+
+**Date completed:** September 22, 2026
